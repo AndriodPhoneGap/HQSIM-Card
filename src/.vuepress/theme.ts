@@ -4,15 +4,15 @@ import { enNavbar, zhNavbar } from "./navbar/index.js";
 import { enSidebar, zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
-  hostname: "https://mister-hope.github.io",
+  hostname: "https://www.hqsim.com",
   lastUpdated: false, // 禁用最后更新时间
   author: {
-    name: "Mr.Hope",
-    url: "https://mister-hope.com",
+    name: "Mr.HQSIM",
+    url: "https://www.hqsim.com",
   },
 
   logo: "/assets/icon/hqsim-removebg-preview.png",
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "AndriodPhoneGap/HQSIM",
 
   docsDir: "src",
   blog: {
