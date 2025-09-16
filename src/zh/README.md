@@ -27,7 +27,7 @@ actions:
 
   - text: 联系为我们
     icon: star
-    link: ./demo/
+    link: ./Contact/
 
 highlights:
   - header: 核心服务
@@ -86,11 +86,11 @@ highlights:
     features:
       - title: 目录页面
         icon: network-wired 
-        link: ./guide/feature/catalog.html
+        link: ./TechLearn/
 
       - title: 《探针卡结构与工作原理详解》
         icon: comment-dots 
-        link: ./guide/feature/comment.html
+        link: ./TechLearn/1.html
 
       - title: 《测试座封装选型速查表》
         icon: circle-info 

@@ -13,7 +13,7 @@ export default defineUserConfig({
     },
     "/zh/": {
       lang: "zh-CN",
-      title: " ",
+      title: "HQSIM",
       // description: "vuepress-theme-hope 的博客演示",
     },
   },
