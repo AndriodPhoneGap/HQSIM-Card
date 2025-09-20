@@ -8,7 +8,7 @@ export const zhNavbar = navbar([
   "/zh/Cases/", 
   // "/zh/AboutUs/",
   "/zh/Contact/", 
-  "/zh/CTA/"
+  // "/zh/CTA/"
   
   // {
   //   text: "科普知识",
