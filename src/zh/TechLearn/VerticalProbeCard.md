@@ -3,7 +3,7 @@ title: 垂直探针卡
 icon: object-group
 order: 3
 category:
-  - 产品中心 
+  - 技术资料 
 tag:
   - 探针卡
 ---  

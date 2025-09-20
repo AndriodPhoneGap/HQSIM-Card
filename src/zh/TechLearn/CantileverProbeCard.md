@@ -3,7 +3,7 @@ title: 悬臂探针卡
 icon: object-group
 order: 2
 category:
-  - 产品中心 
+  - 技术资料 
 tag:
   - 探针卡
 --- 

@@ -6,9 +6,10 @@ export const zhNavbar = navbar([
   "/zh/Solutions/", 
   "/zh/TechLearn/", 
   "/zh/Cases/", 
-  "/zh/AboutUs/",
+  // "/zh/AboutUs/",
   "/zh/Contact/", 
-  "/zh/CTA/",
+  "/zh/CTA/"
+  
   // {
   //   text: "科普知识",
   //   icon: "pen-to-square",
