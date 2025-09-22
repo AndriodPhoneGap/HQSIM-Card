@@ -1,5 +1,5 @@
 ---
-title: 技术资料
+title: 知识科普
 index: false
 # icon: laptop-code
 category:

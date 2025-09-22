@@ -22,7 +22,7 @@ export const zhSidebar = sidebar({
       text: "技术资料",
       icon: "lightbulb",
       prefix: "TechLearn/",
-      children: [ "Book/",
+      children: [ "Book/","Deeding/",
       ],
     },   
       "Solutions/",
