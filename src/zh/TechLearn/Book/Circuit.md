@@ -1,5 +1,5 @@
 ---
-title: 芯片认知入门：定义、分类与设计流程
+title: 芯片认知入门
 icon: object-group
 order: 1
 category:
